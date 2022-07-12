@@ -48,20 +48,4 @@ document.addEventListener('DOMContentLoaded', function(){
         
         counter += 1
     };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 });
